@@ -1,4 +1,4 @@
 int main() {
-   printf("Hello World!\n");
+   printf("Hello Crool World!\n");
    return 0;
 }' > HelloWorld.c
